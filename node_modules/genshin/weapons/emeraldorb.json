@@ -1,0 +1,14 @@
+{
+    "name": "Emerald Orb",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/1/18/Weapon_Jade_Orb.png/revision/latest/scale-to-width-down/100?cb=20200619022211",
+    "rating": 3,
+    "baseatk": "40",
+    "secstat": "Elemental Mastery",
+    "passive": "Rapids",
+    "r1": "Upon causing a Vaporize, Electro-Charged, Frozen, or a Hydro-infused Swirl reaction, increases Base ATK by 20% for 12s.",
+    "r2": "Upon causing a Vaporize, Electro-Charged, Frozen, or a Hydro-infused Swirl reaction, increases Base ATK by 25% for 12s.",
+    "r3": "Upon causing a Vaporize, Electro-Charged, Frozen, or a Hydro-infused Swirl reaction, increases Base ATK by 30% for 12s.",
+    "r4": "Upon causing a Vaporize, Electro-Charged, Frozen, or a Hydro-infused Swirl reaction, increases Base ATK by 35% for 12s.",
+    "r5": "Upon causing a Vaporize, Electro-Charged, Frozen, or a Hydro-infused Swirl reaction, increases Base ATK by 40% for 12s.",
+    "class": "Catalyst"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Mappa Mare",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/4/4d/Weapon_Mappa_Mare.png/revision/latest/scale-to-width-down/100?cb=20200619015830",
+    "rating": 4,
+    "baseatk": "44",
+    "secstat": "Elemental Mastery",
+    "passive": "Infusion Scroll",
+    "r1": "Triggering an Elemental reaction grants a 8% Elemental DMG Bonus for 10s. Max 2 stacks.",
+    "r2": "Triggering an Elemental reaction grants a 10% Elemental DMG Bonus for 10s. Max 2 stacks.",
+    "r3": "Triggering an Elemental reaction grants a 12% Elemental DMG Bonus for 10s. Max 2 stacks.",
+    "r4": "Triggering an Elemental reaction grants a 14% Elemental DMG Bonus for 10s. Max 2 stacks.",
+    "r5": "Triggering an Elemental reaction grants a 16% Elemental DMG Bonus for 10s. Max 2 stacks.",
+    "class": "Catalyst"
+}

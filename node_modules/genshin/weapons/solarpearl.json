@@ -1,0 +1,14 @@
+{
+    "name": "Solar Pearl",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/f/fc/Weapon_Solar_Pearl.png/revision/latest/scale-to-width-down/100?cb=20200619020906",
+    "rating": 4,
+    "baseatk": "42",
+    "secstat": "CRIT Rate",
+    "passive": "Solar Shine",
+    "r1": "Normal Attack hits increase Elemental Skill and Elemental Burst DMG by 20% for 6s. Likewise, Elemental Skill or Elemental Burst hits increase Normal Attack DMG by 20% for 6s.",
+    "r2": "Normal Attack hits increase Elemental Skill and Elemental Burst DMG by 25% for 6s. Likewise, Elemental Skill or Elemental Burst hits increase Normal Attack DMG by 25% for 6s.",
+    "r3": "Normal Attack hits increase Elemental Skill and Elemental Burst DMG by 30% for 6s. Likewise, Elemental Skill or Elemental Burst hits increase Normal Attack DMG by 39% for 6s.",
+    "r4": "Normal Attack hits increase Elemental Skill and Elemental Burst DMG by 35% for 6s. Likewise, Elemental Skill or Elemental Burst hits increase Normal Attack DMG by 35% for 6s.",
+    "r5": "Normal Attacks hits increases Elemental Skill and Elemental Burst DMG by 40% for 6s. Likewise, Elemental Skill or Elemental Burst hits increases Normal Attack DMG by 40% for 6s.",
+    "class": "Catalyst"
+}

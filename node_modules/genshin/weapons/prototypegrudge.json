@@ -1,0 +1,14 @@
+{
+    "name": "Prototype Grudge",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/7/7a/Weapon_Prototype_Grudge.png/revision/latest/scale-to-width-down/100?cb=20200620085749",
+    "rating": 4,
+    "baseatk": "42",
+    "secstat": "Energy Recharge",
+    "passive": "Magic Affinity",
+    "r1": "After using an Elemental Skill, increases Normal and Charged Attack DMG by 8% for 12s. Max 2 stacks.",
+    "r2": "After using an Elemental Skill, increases Normal and Charged Attack DMG by 10% for 12s. Max 2 stacks.",
+    "r3": "After using an Elemental Skill, increases Normal and Charged Attack DMG by 12% for 12s. Max 2 stacks.",
+    "r4": "After using an Elemental Skill, increases Normal and Charged Attack DMG by 14% for 12s. Max 2 stacks.",
+    "r5": "After using an Elemental Skill, increases Normal and Charged Attack DMG by 16% for 12s. Max 2 stacks.",
+    "class": "Polearm"
+}

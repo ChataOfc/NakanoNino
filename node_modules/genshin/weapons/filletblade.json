@@ -1,0 +1,14 @@
+{
+    "name": "Fillet Blade",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/f/f7/Weapon_Fillet_Blade.png/revision/latest/scale-to-width-down/100?cb=20200709232110",
+    "rating": 3,
+    "baseatk": "39",
+    "secstat": "ATK",
+    "passive": "Gash",
+    "r1": "On hit, has 50% chance to deal 240% ATK DMG to a single enemy. Can only occur once every 15s.",
+    "r2": "On hit, has 50% chance to deal 280% ATK DMG to a single enemy. Can only occur once every 14s.",
+    "r3": "On hit, has 50% chance to deal 320% ATK DMG to a single enemy. Can only occur once every 13s.",
+    "r4": "On hit, has 50% chance to deal 360% ATK DMG to a single enemy. Can only occur once every 12s.",
+    "r5": "On hit, has 50% chance to deal 400% ATK DMG to a single enemy. Can only occur once every 11s.",
+    "class": "Sword"
+}

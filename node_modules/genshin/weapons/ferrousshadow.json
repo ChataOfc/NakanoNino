@@ -1,0 +1,14 @@
+{
+    "name": "Ferrous Shadow",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/e/e9/Weapon_Ferrous_Shadow.png/revision/latest/scale-to-width-down/100?cb=20200620071545",
+    "rating": 3,
+    "baseatk": "39",
+    "secstat": "Base HP",
+    "passive": "Unbending",
+    "r1": "When HP falls below 70%, increases Charged Attack DMG by 30% and Charged Attacks become much harder to interrupt.",
+    "r2": "When HP falls below 75%, increases Charged Attack DMG by 35% and Charged Attacks become much harder to interrupt.",
+    "r3": "When HP falls below 80%, increases Charged Attack DMG by 40% and Charged Attacks become much harder to interrupt.",
+    "r4": "When HP falls below 85%, increases Charged Attack DMG by 45% and Charged Attacks become much harder to interrupt.",
+    "r5": "When HP falls below 90%, increases Charged Attack DMG by 50% and Charged Attacks become much harder to interrupt.",
+    "class": "Claymore"
+}

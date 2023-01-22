@@ -1,0 +1,14 @@
+{
+    "name": "Slingshot",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/c/ca/Weapon_Slingshot.png/revision/latest/scale-to-width-down/100?cb=20200619011230",
+    "rating": 3,
+    "baseatk": "38",
+    "secstat": "CRIT Rate",
+    "passive": "Slingshot",
+    "r1": "If a Normal Attack or Aimed Shot hits a target within 0.3s of being fired, increases DMG by 36%; otherwise, it decreases DMG by 10%.",
+    "r2": "If a Normal Attack or Aimed Shot hits a target within 0.3s of being fired, increases DMG by 42%; otherwise, it decreases DMG by 10%.",
+    "r3": "If a Normal Attack or Aimed Shot hits a target within 0.3s of being fired, increases DMG by 48%; otherwise, it decreases DMG by 10%.",
+    "r4": "If a Normal Attack or Aimed Shot hits a target within 0.3s of being fired, increases DMG by 54%; otherwise, it decreases DMG by 10%.",
+    "r5": "If a Normal Attack or Aimed Shot hits a target within 0.3s of being fired, increases DMG by 60%; otherwise, it decreases DMG by 10%.",
+    "class": "Bow"
+}

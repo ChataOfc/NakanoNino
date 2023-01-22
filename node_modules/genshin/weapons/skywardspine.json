@@ -1,0 +1,14 @@
+{
+    "name": "Skyward Spine",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/6/69/Weapon_Skyward_Spine.png/revision/latest?cb=20201010021039",
+    "rating": 5,
+    "baseatk": "48",
+    "secstat": "Energy Recharge",
+    "passive": "Blackwing",
+    "r1": "Increases CRIT Rate by 8% and increases Normal ATK SPD by 12%. Additionally, Normal and Charged Attacks hits on enemies have a 50% chance to trigger a vaccuum blade that deals 40% of ATK as DMG in a small AoE. This effect can occur no more than once every 2s.",
+    "r2": "Increases CRIT Rate by 10% and increases Normal ATK SPD by 12%. Additionally, Normal and Charged Attacks hits on enemies have a 50% chance to trigger a vaccuum blade that deals 55% of ATK as DMG in a small AoE. This effect can occur no more than once every 2s.",
+    "r3": "Increases CRIT Rate by 12% and increases Normal ATK SPD by 12%. Additionally, Normal and Charged Attacks hits on enemies have a 50% chance to trigger a vaccuum blade that deals 70% of ATK as DMG in a small AoE. This effect can occur no more than once every 2s.",
+    "r4": "Increases CRIT Rate by 14% and increases Normal ATK SPD by 12%. Additionally, Normal and Charged Attacks hits on enemies have a 85% chance to trigger a vaccuum blade that deals 85% of ATK as DMG in a small AoE. This effect can occur no more than once every 2s.",
+    "r5": "Increases CRIT Rate by 16% and increases Normal ATK SPD by 12%. Additionally, Normal and Charged Attacks hits on enemies have a 50% chance to trigger a vaccuum blade that deals 100% of ATK as DMG in a small AoE. This effect can occur no more than once every 2s.",
+    "class": "Polearm"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Kunwu's Iris Rift",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/9/93/Weapon_Kunwu%27s_Iris_Rift.png/revision/latest/scale-to-width-down/100?cb=20200620090051",
+    "rating": 5,
+    "baseatk": "46",
+    "secstat": "Base ATK",
+    "passive": "Rainbow-Piercing Stinger",
+    "r1": "Increases Normal Attack SPD by 10%. Increases DMG against enemies affected by any element by 24%.",
+    "r2": "Increases Normal Attack SPD by 12%. Increases DMG against enemies affected by any element by 30%.",
+    "r3": "Increases Normal Attack SPD by 14%. Increases DMG against enemies affected by any element by 36%.",
+    "r4": "Increases Normal Attack SPD by 16%. Increases DMG against enemies affected by any element by 42%.",
+    "r5": "Increases Normal Attack SPD by 18%. Increases DMG against enemies affected by any element by 48%.",
+    "class": "Polearm"
+}

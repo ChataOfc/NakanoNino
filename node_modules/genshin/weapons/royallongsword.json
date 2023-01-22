@@ -1,0 +1,14 @@
+{
+    "name": "Royal Longsword",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/c/cd/Weapon_Royal_Longsword.png/revision/latest/scale-to-width-down/100?cb=20200620235317",
+    "rating": 4,
+    "baseatk": "42",
+    "secstat": "Base ATK",
+    "passive": "Focus",
+    "r1": "Upon dealing damage to an opponent, increases CRIT Rate by 6%. Max 5 stacks. A CRIT hit removes all existing stacks.",
+    "r2": "Unknown",
+    "r3": "Unknown",
+    "r4": "Unknown",
+    "r5": "Unknown",
+    "class": "Sword"
+}

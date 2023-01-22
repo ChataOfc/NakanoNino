@@ -1,0 +1,14 @@
+{
+    "name": "Rainslasher",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/d/d4/Weapon_Rainslasher.png/revision/latest?cb=20200620074157",
+    "rating": 4,
+    "baseatk": "42",
+    "secstat": "Elemental Mastery",
+    "passive": "Bane of Storm and Tide",
+    "r1": "Increases DMG against enemies affected by Hydro or Electro by 20%.",
+    "r2": "Increases DMG against enemies affected by Hydro or Electro by 24%.",
+    "r3": "Increases DMG against enemies affected by Hydro or Electro by 28%",
+    "r4": "Increases DMG against enemies affected by Hydro or Electro by 32%.",
+    "r5": "Increases DMG against enemies affected by Hydro or Electro by 36%.",
+    "class": "Claymore"
+}

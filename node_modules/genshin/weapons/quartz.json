@@ -1,0 +1,14 @@
+{
+    "name": "Quartz",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/7/71/Weapon_Quartz.png/revision/latest/scale-to-width-down/100?cb=20200620071952",
+    "rating": 3,
+    "baseatk": "40",
+    "secstat": "Elemental Mastery",
+    "passive": "Residual Heat",
+    "r1": "Upon causing an Overloaded, Melt, Burning, Vaporize, or a Pyro-infused Swirl reaction, increases Base ATK by 20% for 12s.",
+    "r2": "Upon causing an Overloaded, Melt, Burning, Vaporize, or a Pyro-infused Swirl reaction, increases Base ATK by 25% for 12s.",
+    "r3": "Upon causing an Overloaded, Melt, Burning, Vaporize, or a Pyro-infused Swirl reaction, increases Base ATK by 30% for 12s.",
+    "r4": "Upon causing an Overloaded, Melt, Burning, Vaporize, or a Pyro-infused Swirl reaction, increases Base ATK by 35% for 12s.",
+    "r5": "Upon causing an Overloaded, Melt, Burning, Vaporize, or a Pyro-infused Swirl reaction, increases Base ATK by 40% for 12s.",
+    "class": "Claymore"
+}

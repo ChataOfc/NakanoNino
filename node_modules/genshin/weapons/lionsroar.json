@@ -1,0 +1,14 @@
+{
+    "name": "Lions Roar",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/e/e6/Weapon_Lion%27s_Roar.png/revision/latest/scale-to-width-down/100?cb=20200620234652",
+    "rating": 4,
+    "baseatk": "42",
+    "secstat": "ATK",
+    "passive": "Bane of Fire and Thunder",
+    "r1": "Increases DMG against enemies affected by Pyro or Electro by 20%.",
+    "r2": "Increases DMG against enemies affected by Pyro or Electro by 24%.",
+    "r3": "Increases DMG against enemies affected by Pyro or Electro by 28%.",
+    "r4": "Increases DMG against enemies affected by Pyro or Electro by 32%.",
+    "r5": "Increases DMG against enemies affected by Pyro or Electro by 36%.",
+    "class": "Sword"
+}

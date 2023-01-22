@@ -1,0 +1,14 @@
+{
+    "name": "Wine and Song",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/c/c6/Weapon_Wine_and_Song.png/revision/latest?cb=20200715012327",
+    "rating": 4,
+    "baseatk": "42",
+    "secstat": "Energy Recharge",
+    "passive": "Wind in the Square",
+    "r1": "For every character in the party who hails from Mondstadt, the character who equips this weapon gains 8% ATK increase and 3% Movement SPD increase.",
+    "r2": "For every character in the party who hails from Mondstadt, the character who equips this weapon gains 10% ATK increase and 3.5% Movement SPD increase.",
+    "r3": "For every character in the party who hails from Mondstadt, the character who equips this weapon gains 12% ATK increase and 4% Movement SPD increase.",
+    "r4": "For every character in the party who hails from Mondstadt, the character who equips this weapon gains 14% ATK increase and 4.5% Movement SPD increase.",
+    "r5": "For every character in the party who hails from Mondstadt, the character who equips this weapon gains 16% ATK increase and 5% Movement SPD increase.",
+    "class": "Catalyst"
+}

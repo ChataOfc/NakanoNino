@@ -1,0 +1,14 @@
+{
+    "name": "Amos Bow",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/d/de/Weapon_Amos%27_Bow.png/revision/latest/scale-to-width-down/100?cb=20200619000921",
+    "rating": 5,
+    "baseatk": "46",
+    "secstat": "Base ATK",
+    "passive": "Strong-Willed",
+    "r1": "Increases Normal Attack and Aimed Shot DMG by 12%. Increases DMG from arrows shot by a further 8% for every 0.1s that the arrow is in flight, up to 0.5s.",
+    "r2": "Increases Normal Attack and Aimed Shot DMG by 15%. Increases DMG from arrows shot by a further 10% for every 0.1s that the arrow is in flight, up to 0.5s.",
+    "r3": "Increases Normal Attack and Aimed Shot DMG by 18%. Increases DMG from arrows shot by a further 12% for every 0.1s that the arrow is in flight, up to 0.5s.",
+    "r4": "Increases Normal Attack and Aimed Shot DMG by 21%. Increases DMG from arrows shot by a further 14% for every 0.1s that the arrow is in flight, up to 0.5s.",
+    "r5": "Increases Normal Attack and Aimed Shot DMG by 24%. Increases DMG from arrows shot by a further 16% for every 0.1s that the arrow is in flight, up to 0.5s.",
+    "class": "Bow"
+}

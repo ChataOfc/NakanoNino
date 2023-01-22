@@ -1,0 +1,14 @@
+{
+    "name": "Twin Nephrite",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/e/e3/Weapon_Twin_Nephrite.png/revision/latest/scale-to-width-down/100?cb=20200709193918",
+    "rating": 3,
+    "baseatk": "40",
+    "secstat": "CRIT Rate",
+    "passive": "Guerilla Tactic",
+    "r1": "Defeating an enemy increases Movement SPD and ATK by 12% for 15s.",
+    "r2": "Defeating an enemy increases Movement SPD and ATK by 14% for 15s.",
+    "r3": "Defeating an enemy increases Movement SPD and ATK by 16% for 15s.",
+    "r4": "Defeating an enemy increases Movement SPD and ATK by 18% for 15s.",
+    "r5": "Defeating an enemy increases Movement SPD and ATK by 20% for 15s.",
+    "class": "Catalyst"
+}

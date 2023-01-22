@@ -1,0 +1,14 @@
+{
+    "name": "Messenger",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/3/38/Weapon_Messenger.png/revision/latest/scale-to-width-down/100?cb=20200708073530",
+    "rating": 3,
+    "baseatk": "40",
+    "secstat": "CRIT DMG",
+    "passive": "Archer's Message",
+    "r1": "Aimed Shot hits on weak spots deal an additional 100% ATK DMG as CRIT DMG. Can only occur once every 10s.",
+    "r2": "Aimed Shot hits on weak spots deal an additional 125% ATK DMG as CRIT DMG. Can only occur once every 10s.",
+    "r3": "Aimed Shot hits on weak spots deal an additional 150% ATK DMG as CRIT DMG. Can only occur once every 10s.",
+    "r4": "Aimed Shot hits on weak spots deal an additional 175% ATK DMG as CRIT DMG. Can only occur once every 10s.",
+    "r5": "Aimed Shot hits on weak spots deal an additional 200% ATK DMG as CRIT DMG. Can only occur once every 10s.",
+    "class": "Bow"
+}

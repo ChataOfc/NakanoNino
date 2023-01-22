@@ -1,0 +1,14 @@
+{
+    "name": "Serpent Spine",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/8/88/Weapon_Serpent_Spine.png/revision/latest/scale-to-width-down/100?cb=20200714015237",
+    "rating": 4,
+    "baseatk": "42",
+    "secstat": "CRIT Rate",
+    "passive": "Wavesplitter",
+    "r1": "Every 4s a character is on the field, they will deal 6% more DMG and take 3% more DMG. This effect has a maximum of 5 stacks and will not be reset if the character leaves the field, but will be reduced by 1 stack when the character takes DMG.",
+    "r2": "Every 4s a character is on the field, they will deal 7% more DMG and take 2.7% more DMG. This effect has a maximum of 5 stacks and will not be reset if the character leaves the field, but will be reduced by 1 stack when the character takes DMG.",
+    "r3": "Unknown",
+    "r4": "Unknown",
+    "r5": "Unknown",
+    "class": "Claymore"
+}

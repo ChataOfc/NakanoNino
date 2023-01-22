@@ -1,0 +1,14 @@
+{
+    "name": "Prototype Aminus",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/6/68/Weapon_Prototype_Aminus.png/revision/latest/scale-to-width-down/100?cb=20200620074014",
+    "rating": 4,
+    "baseatk": "44",
+    "secstat": "ATK",
+    "passive": "Crush",
+    "r1": "On hit, Normal or Charged Attacks have a 50% chance to deal an additional 240% ATK DMG to enemies within a small AoE. Can only occur once every 15s.",
+    "r2": "On hit, Normal or Charged Attacks have a 50% chance to deal an additional 300% ATK DMG to enemies within a small AoE. Can only occur once every 15s.",
+    "r3": "On hit, Normal or Charged Attacks have a 50% chance to deal an additional 360% ATK DMG to enemies within a small AoE. Can only occur once every 15s.",
+    "r4": "On hit, Normal or Charged Attacks have a 50% chance to deal an additional 420% ATK DMG to enemies within a small AoE. Can only occur once every 15s.",
+    "r5": "On hit, Normal or Charged Attacks have a 50% chance to deal an additional 480% ATK DMG to enemies within a small AoE. Can only occur once every 15s.",
+    "class": "Claymore"
+}

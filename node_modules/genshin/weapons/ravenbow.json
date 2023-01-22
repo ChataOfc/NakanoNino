@@ -1,0 +1,14 @@
+{
+    "name": "Raven Bow",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/d/d0/Weapon_Raven_Bow.png/revision/latest/scale-to-width-down/100?cb=20200619010511",
+    "rating": 3,
+    "baseatk": "40",
+    "secstat": "Elemental Mastery",
+    "passive": "Bane of Flame and Water",
+    "r1": "Increases DMG against enemies affected by Hydro or Pyro by 12%.",
+    "r2": "Increases DMG against enemies affected by Hydro or Pyro by 15%.",
+    "r3": "Increases DMG against enemies affected by Hydro or Pyro by 18%.",
+    "r4": "Increases DMG against enemies affected by Hydro or Pyro by 21%.",
+    "r5": "Increases DMG against enemies affected by Hydro or Pyro by 24%.",
+    "class": "Bow"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Lost Prayer to the Sacred Winds",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/9/98/Weapon_Lost_Prayer_to_the_Sacred_Winds.png/revision/latest/scale-to-width-down/100?cb=20200619014501",
+    "rating": 5,
+    "baseatk": "46",
+    "secstat": "CRIT Rate",
+    "passive": "Boundless Blessing",
+    "r1": "Increases Movement SPD by 10%. When in battle, gain an 8% Elemental DMG Bonus every 4s. Max 4 stacks. Lasts until the character falls or leaves combat.",
+    "r2": "Increases Movement SPD by 10%. When in battle, earn an 8% Elemental DMG Bonus every 4s. Max 4 stacks. Lasts until the character falls or leaves combat.",
+    "r3": "Increases Movement SPD by 10%. When in battle, earn a 10% Elemental DMG Bonus every 4s. Max 4 stacks. Lasts until the character falls or leaves combat.",
+    "r4": "Increases Movement SPD by 10%. When in battle, earn a 12% Elemental DMG Bonus every 4s. Max 4 stacks. Lasts until the character falls or leaves combat.",
+    "r5": "Increases Movement SPD by 10%. When in battle, earn a 14% Elemental DMG Bonus every 4s. Max 4 stacks. Lasts until the character falls or leaves combat.",
+    "class": "Catalyst"
+}

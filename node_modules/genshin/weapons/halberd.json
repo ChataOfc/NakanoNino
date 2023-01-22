@@ -1,0 +1,14 @@
+{
+    "name": "Halberd",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/4/41/Weapon_Halberd.png/revision/latest/scale-to-width-down/100?cb=20200717024129",
+    "rating": 3,
+    "baseatk": "40",
+    "secstat": "Base ATK",
+    "passive": "Heavy",
+    "r1": "Normal Attacks deal an additional 160% DMG. Can only occur once every 10s.",
+    "r2": "Normal Attacks deal an additional 200% DMG. Can only occur once every 10s.",
+    "r3": "Normal Attacks deal an additional 240% DMG. Can only occur once every 10s.",
+    "r4": "Normal Attacks deal an additional 280% DMG. Can only occur once every 10s.",
+    "r5": "Normal Attacks deal an additional 320% DMG. Can only occur once every 10s.",
+    "class": "Polearm"
+}

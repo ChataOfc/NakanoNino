@@ -1,0 +1,14 @@
+{
+    "name": "Lithic Blade",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/3/3a/Weapon_Lithic_Blade.png/revision/latest/scale-to-width-down/100?cb=20200716172440",
+    "rating": 4,
+    "baseatk": "41",
+    "secstat": "Crit DMG",
+    "passive": "Lithic Axiom - Unity",
+    "r1": "For every character in the party who hails from Liyue, the character who equips this weapon gains 6% ATK increase and 2% CRIT Rate increase.",
+    "r2": "For every character in the party who hails from Liyue, the character who equips this weapon gains 7% ATK increase and 3% CRIT Rate increase.",
+    "r3": "For every character in the party who hails from Liyue, the character who equips this weapon gains 8% ATK increase and 4% CRIT Rate increase.",
+    "r4": "For every character in the party who hails from Liyue, the character who equips this weapon gains 9% ATK increase and 6% CRIT Rate increase.",
+    "r5": "For every character in the party who hails from Liyue, the character who equips this weapon gains 10% ATK increase and 6% CRIT Rate increase.",
+    "class": "Claymore"
+}

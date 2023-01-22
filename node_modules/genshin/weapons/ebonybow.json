@@ -1,0 +1,14 @@
+{
+    "name": "Ebony Bow",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/a/a1/Weapon_Ebony_Bow.png/revision/latest/scale-to-width-down/100?cb=20200619005942",
+    "rating": 3,
+    "baseatk": "40",
+    "secstat": "Base ATK",
+    "passive": "Decimate",
+    "r1": "Increases DMG against mechanoid Ruin enemies by 40%.",
+    "r2": "Increases DMG against mechanoid Ruin enemies by 50%.",
+    "r3": "Increases DMG against mechanoid Ruin enemies by 60%.",
+    "r4": "Increases DMG against mechanoid Ruin enemies by 70%.",
+    "r5": "Increases DMG against mechanoid Ruin enemies by 80%.",
+    "class": "Bow"
+}

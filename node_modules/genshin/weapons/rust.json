@@ -1,0 +1,14 @@
+{
+    "name": "Rust",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/1/1c/Weapon_Rust.png/revision/latest/scale-to-width-down/100?cb=20200619005218",
+    "rating": 4,
+    "baseatk": "42",
+    "secstat": "ATK",
+    "passive": "Rapid Firing",
+    "r1": "Increases Normal Attack DMG by 40% but decreases Aimed Shot DMG by 10%",
+    "r2": "Increases Normal Attack DMG by 50% but decreases Aimed Shot DMG by 10%",
+    "r3": "Increases Normal Attack DMG by 60% but decreases Aimed Shot DMG by 10%",
+    "r4": "Increases Normal Attack DMG by 70% but decreases Aimed Shot DMG by 10%",
+    "r5": "Increases Normal Attack DMG by 80% but decreases Aimed Shot DMG by 10%",
+    "class": "Bow"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Skyrider Greatsword",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/6/6e/Weapon_Skyrider_Greatsword.png/revision/latest/scale-to-width-down/100?cb=20200620073049",
+    "rating": 3,
+    "baseatk": "39",
+    "secstat": "Physical DMG Bonus",
+    "passive": "Courage",
+    "r1": "On hit, Normal or Charged Attacks increase ATK by 6% for 6s. Max 4 stacks. Can only occur once every 0.5s.",
+    "r2": "On hit, Normal or Charged Attacks increase ATK by 7% for 6s. Max 4 stacks. Can only occur once every 0.5s.",
+    "r3": "On hit, Normal or Charged Attacks increase ATK by 8% for 6s. Max 4 stacks. Can only occur once every 0.5s.",
+    "r4": "On hit, Normal or Charged Attacks increase ATK by 9% for 6s. Max 4 stacks. Can only occur once every 0.5s.",
+    "r5": "On hit, Normal or Charged Attacks increase ATK by 10% for 6s. Max 4 stacks. Can only occur once every 0.5s.",
+    "class": "Claymore"
+}

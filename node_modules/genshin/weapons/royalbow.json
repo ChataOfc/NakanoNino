@@ -1,0 +1,14 @@
+{
+    "name": "Royal Bow",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/9/99/Weapon_Royal_Bow.png/revision/latest/scale-to-width-down/100?cb=20200619003527",
+    "rating": 4,
+    "baseatk": "42",
+    "secstat": "ATK",
+    "passive": "Focus",
+    "r1": "Upon damaging an opponent, increases CRIT Rate by 8%. Max 5 stacks. A CRIT hit removes all stacks.",
+    "r2": "Unknown",
+    "r3": "Unknown",
+    "r4": "Unknown",
+    "r5": "Unknown",
+    "class": "Bow"
+}

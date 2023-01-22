@@ -1,0 +1,14 @@
+{
+    "name": "Skyward Atlas",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/3/33/Weapon_Skyward_Atlas.png/revision/latest/scale-to-width-down/100?cb=20200619015147",
+    "rating": 5,
+    "baseatk": "48",
+    "secstat": "Base ATK",
+    "passive": "Wandering Clouds",
+    "r1": "Increases Elemental DMG Bonus by 12%. Normal Attack hits have a 50% chance to earn the favor of the clouds, which actively seek out nearby enemies to attack for 15s, dealing 160% ATK DMG. Can only occur once every 30s.",
+    "r2": "Increases Elemental DMG Bonus by 15%. Normal Attack hits have a 50% chance to earn the favor of the clouds, which actively seek out nearby enemies to attack for 15s, dealing 200% ATK DMG. Can only occur once every 30s.",
+    "r3": "Increases Elemental DMG Bonus by 18%. Normal Attack hits have a 50% chance to earn the favor of the clouds, which actively seek out nearby enemies to attack for 15s, dealing 240% ATK DMG. Can only occur once every 30s.",
+    "r4": "Increases Elemental DMG Bonus by 21%. Normal Attack hits have a 50% chance to earn the favor of the clouds, which actively seek out nearby enemies to attack for 15s, dealing 280% ATK DMG. Can only occur once every 30s.",
+    "r5": "Increases Elemental DMG Bonus by 24%. Normal Attack hits have a 50% chance to earn the favor of the clouds, which actively seek out nearby enemies to attack for 15s, dealing 320% ATK DMG. Can only occur once every 30s.",
+    "class": "Catalyst"
+}

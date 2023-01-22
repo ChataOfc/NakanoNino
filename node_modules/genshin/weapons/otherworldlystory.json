@@ -1,0 +1,14 @@
+{
+    "name": "Otherworldly Story",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/1/11/Weapon_Otherworldly_Story.png/revision/latest/scale-to-width-down/100?cb=20200717023530",
+    "rating": 3,
+    "baseatk": "39",
+    "secstat": "Energy Recharge",
+    "passive": "Energy Shower",
+    "r1": "Each Elemental Orb or Particle collected restores 1% HP.",
+    "r2": "Each Elemental Orb or Particle collected restores 1.25% HP.",
+    "r3": "Each Elemental Orb or Particle collected restores 1.5% HP.",
+    "r4": "Each Elemental Orb or Particle collected restores 1.75% HP.",
+    "r5": "Each Elemental Orb or Particle collected restores 2% HP.",
+    "class": "Catalyst"
+}

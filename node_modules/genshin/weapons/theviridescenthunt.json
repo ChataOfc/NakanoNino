@@ -1,0 +1,14 @@
+{
+    "name": "The Viridescent Hunt",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/f/ff/Weapon_The_Viridescent_Hunt.png/revision/latest/scale-to-width-down/100?cb=20200714021322",
+    "rating": 4,
+    "baseatk": "42",
+    "secstat": "CRIT Rate",
+    "passive": "Verdant Wind",
+    "r1": "Upon hit, Normal and Aimed Shot Attacks have a 50% chance to generate a Cyclone, which will continuously attract surrounding enemies, dealing 40% of ATK as DMG to these enemies every 0.5s for 4s. This effect can only occur once every 14s.",
+    "r2": "Upon hit, Normal and Aimed Shot Attacks have a 50% chance to generate a Cyclone, which will continuously attract surrounding enemies, dealing 50% of ATK as DMG to these enemies every 0.5s for 4s. This effect can only occur once every 13s.",
+    "r3": "Upon hit, Normal and Aimed Shot Attacks have a 50% chance to generate a Cyclone, which will continuously attract surrounding enemies, dealing 60% of ATK as DMG to these enemies every 0.5s for 4s. This effect can only occur once every 12s.",
+    "r4": "Upon hit, Normal and Aimed Shot Attacks have a 50% chance to generate a Cyclone, which will continuously attract surrounding enemies, dealing 70% of ATK as DMG to these enemies every 0.5s for 4s. This effect can only occur once every 11s.",
+    "r5": "Upon hit, Normal and Aimed Shot Attacks have a 50% chance to generate a Cyclone, which will continuously attract surrounding enemies, dealing 80% of ATK as DMG to these enemies every 0.5s for 4s. This effect can only occur once every 10s.",
+    "class": "Bow"
+}

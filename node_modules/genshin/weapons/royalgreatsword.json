@@ -1,0 +1,14 @@
+{
+    "name": "Royal Greatsword",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/b/bf/Weapon_Royal_Greatsword.png/revision/latest/scale-to-width-down/100?cb=20200620080351",
+    "rating": 4,
+    "baseatk": "43",
+    "secstat": "Physical DMG Bonus",
+    "passive": "Brave",
+    "r1": "On hit, Charged Attacks increase Base ATK and Base DEF by 28% for 10s. Can only occur once every 20s.",
+    "r2": "On hit, Charged Attacks increase Base ATK and Base DEF by 36% for 10s. Can only occur once every 20s.",
+    "r3": "On hit, Charged Attacks increase Base ATK and Base DEF by 44% for 10s. Can only occur once every 20s.",
+    "r4": "On hit, Charged Attacks increase Base ATK and Base DEF by 52% for 10s. Can only occur once every 20s.",
+    "r5": "On hit, Charged Attacks increase Base ATK and Base DEF by 60% for 10s. Can only occur once every 20s.",
+    "class": "Claymore"
+}

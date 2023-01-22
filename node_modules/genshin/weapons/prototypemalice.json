@@ -1,0 +1,14 @@
+{
+    "name": "Prototype Malice",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/3/32/Weapon_Prototype_Malice.png/revision/latest/scale-to-width-down/100?cb=20200619020021",
+    "rating": 4,
+    "baseatk": "42",
+    "secstat": "Base HP",
+    "passive": "Gilding",
+    "r1": "Using an Elemental Burst regenerates 4 Energy every 2s for 6s. Additionally, all party members will regenerate 4% HP every 2s for this duration.",
+    "r2": "Using an Elemental Burst regenerates 4.5 Energy every 2s for 6s. Additionally, all party members will regenerate 4.5% HP every 2s for this duration.",
+    "r3": "Using an Elemental Burst regenerates 5 Energy every 2s for 6s. Additionally, all party members will regenerate 5% HP every 2s for this duration.",
+    "r4": "Using an Elemental Burst regenerates 5.5 Energy every 2s for 6s. Additionally, all party members will regenerate 5.5% HP every 2s for this duration.",
+    "r5": "Using an Elemental Burst regenerates 6 Energy every 2s for 6s. Additionally, all party members will regenerate 6% HP every 2s for this duration.",
+    "class": "Catalyst"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Lithic Spear",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/2/2a/Weapon_Lithic_Spear.png/revision/latest/scale-to-width-down/100?cb=20200716171905",
+    "rating": 4,
+    "baseatk": "42",
+    "secstat": "Physical DMG Bonus",
+    "passive": "Lithic Axiom Subjugating Evil",
+    "r1": "Normal Attack hits have a 20% chance of causing the next Charged Attack performed in the following 10s to deal 40% increased DMG.",
+    "r2": "Unknown",
+    "r3": "Unknown",
+    "r4": "Unknown",
+    "r5": "Unknown",
+    "class": "Polearm"
+}

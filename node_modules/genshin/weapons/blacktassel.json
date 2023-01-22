@@ -1,0 +1,14 @@
+{
+    "name": "Black Tassel",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/4/43/Weapon_Black_Tassel.png/revision/latest/scale-to-width-down/100?cb=20200620084411",
+    "rating": 3,
+    "baseatk": "38",
+    "secstat": "HP",
+    "passive": "Bane of the Soft",
+    "r1": "Increases DMG against slimes by 40%.",
+    "r2": "Increases DMG against slimes by 50%.",
+    "r3": "Increases DMG against slimes by 60%.",
+    "r4": "Increases DMG against slimes by 70%.",
+    "r5": "Increases DMG against slimes by 80%.",
+    "class": "Polearm"
+}

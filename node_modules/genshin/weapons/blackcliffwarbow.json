@@ -1,0 +1,14 @@
+{
+        "name": "Blackcliff Warbow",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/b/b8/Weapon_Blackcliff_Warbow.png/revision/latest/scale-to-width-down/100?cb=20200714220958",
+        "rating": 4,
+        "baseatk": "44",
+        "secstat": "Physical DMG Bonus",
+        "passive": "Press the Advantage",
+        "r1": "After defeating an enemy, ATK is increased by 12% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others.",
+        "r2": "After defeating an enemy, ATK is increased by 15% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others.",
+        "r3": "After defeating an enemy, ATK is increased by 18% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others.",
+        "r4": "After defeating an enemy, ATK is increased by 21% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others.",
+        "r5": "After defeating an enemy, ATK is increased by 24% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others.",
+        "class": "Bow"
+    }

@@ -1,0 +1,14 @@
+{
+    "name": "Recurve Bow",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/b/b5/Weapon_Recurve_Bow.png/revision/latest/scale-to-width-down/100?cb=20200709193449",
+    "rating": 3,
+    "baseatk": "38",
+    "secstat": "Base HP",
+    "passive": "Cull the Weak",
+    "r1": "Defeating an opponent restores 8% HP.",
+    "r2": "Defeating an opponent restores 10% HP.",
+    "r3": "Defeating an opponent restores 12% HP.",
+    "r4": "Defeating an opponent restores 14% HP.",
+    "r5": "Defeating an opponent restores 16% HP.",
+    "class": "Bow"
+}

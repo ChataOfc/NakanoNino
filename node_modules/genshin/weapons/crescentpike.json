@@ -1,0 +1,14 @@
+{
+    "name": "Crescent Pike",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/4/4c/Weapon_Crescent_Pike.png/revision/latest/scale-to-width-down/100?cb=20200618235632",
+    "rating": 4,
+    "baseatk": "44",
+    "secstat": "Physical DMG Bonus",
+    "passive": "Infusion Needle",
+    "r1": "After picking up an Elemental Orb/Particle, Normal and Charged Attacks deal an additional 20% ATK as DMG for 5s.",
+    "r2": "After picking up an Elemental Orb/Particle, Normal and Charged Attacks deal an additional 25% ATK as DMG for 5s.",
+    "r3": "After picking up an Elemental Orb/Particle, Normal and Charged Attacks deal an additional 30% ATK as DMG for 5s.",
+    "r4": "After picking up an Elemental Orb/Particle, Normal and Charged Attacks deal an additional 35% ATK as DMG for 5s.",
+    "r5": "After picking up an Elemental Orb/Particle, Normal and Charged Attacks deal an additional 40% ATK as DMG for 5s.",
+    "class": "Polearm"
+}

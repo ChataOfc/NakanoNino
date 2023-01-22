@@ -1,0 +1,14 @@
+{
+    "name": "Bloodtainted Greatsword",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/4/4a/Weapon_Bloodtainted_Greatsword.png/revision/latest/scale-to-width-down/100?cb=20200619065637",
+    "rating": 3,
+    "baseatk": "38",
+    "secstat": "Elemental Mastery",
+    "passive": "Bane of Fire and Thunder",
+    "r1": "Increases DMG against enemies affected by Pyro or Electro by 12%.",
+    "r2": "Increases DMG against enemies affected by Pyro or Electro by 15%.",
+    "r3": "Increases DMG against enemies affected by Pyro or Electro by 18%.",
+    "r4": "Increases DMG against enemies affected by Pyro or Electro by 21%.",
+    "r5": "Increases DMG against enemies affected by Pyro or Electro by 24%.",
+    "class": "Claymore"
+}

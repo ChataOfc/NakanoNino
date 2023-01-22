@@ -1,0 +1,14 @@
+{
+    "name": "Aquila Favonia",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/6/6a/Weapon_Aquila_Favonia.png/revision/latest/scale-to-width-down/100?cb=20200719140632",
+    "rating": 5,
+    "baseatk": "48",
+    "secstat": "Physical DMG Bonus",
+    "passive": "Falcon's Defiance",
+    "r1": "ATK is increased by 20%. Triggers on taking DMG: the soul of the Falcon of the West awakens, holding the banner of the resistance aloft, regenerating HP equal to 100% of ATK and dealing 200% of ATK as DMG to surrounding enemies. This effect can only occur once every 15s.",
+    "r2": "ATK is increased by 25%. Triggers on taking DMG: the soul of the Falcon of the West awakens, holding the banner of the resistance aloft, regenerating HP equal to 115% of ATK and dealing 230% of ATK as DMG to surrounding enemies. This effect can only occur once every 15s.",
+    "r3": "ATK is increased by 30%. Triggers on taking DMG: the soul of the Falcon of the West awakens, holding the banner of the resistance aloft, regenerating HP equal to 130% of ATK and dealing 260% of ATK as DMG to surrounding enemies. This effect can only occur once every 15s.",
+    "r4": "ATK is increased by 35%. Triggers on taking DMG: the soul of the Falcon of the West awakens, holding the banner of the resistance aloft, regenerating HP equal to 145% of ATK and dealing 290% of ATK as DMG to surrounding enemies. This effect can only occur once every 15s.",
+    "r5": "ATK is increased by 40%. Triggers on taking DMG: the soul of the Falcon of the West awakens, holding the banner of the resistance aloft, regenerating HP equal to 160% of ATK and dealing 320% of ATK as DMG to surrounding enemies. This effect can only occur once every 15s.",
+    "class": "Sword"
+}

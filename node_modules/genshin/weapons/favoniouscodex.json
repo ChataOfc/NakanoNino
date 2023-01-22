@@ -1,0 +1,14 @@
+{
+    "name": "Favonius Codex",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/3/36/Weapon_Favonius_Codex.png/revision/latest/scale-to-width-down/100?cb=20200619015621",
+    "rating": 4,
+    "baseatk": "42",
+    "secstat": "Energy Recharge",
+    "passive": "Critical Charge",
+    "r1": "CRIT hits have a 60% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 12s.",
+    "r2": "CRIT hits have a 70% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 10.5s.",
+    "r3": "CRIT hits have an 80% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 9s.",
+    "r4": "CRIT hits have a 90% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 7.5s.",
+    "r5": "CRIT hits have a 100% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 6s.",
+    "class": "Catalyst"
+}

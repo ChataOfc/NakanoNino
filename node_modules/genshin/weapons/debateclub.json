@@ -1,0 +1,14 @@
+{
+    "name": "Debate Club",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/7/74/Weapon_Debate_Club.png/revision/latest/scale-to-width-down/100?cb=20200620070915",
+    "rating": 3,
+    "baseatk": "39",
+    "secstat": "Base ATK",
+    "passive": "Blunt Conclusion",
+    "r1": "After using an Elemental Skill, Normal or Charged Attacks, on hit, deal an additional 60% ATK DMG in a small area. Effect lasts 15s. DMG can only occur once every 3s.",
+    "r2": "After using an Elemental Skill, Normal or Charged Attacks, on hit, deal an additional 75% ATK DMG in a small area. Effect lasts 15s. DMG can only occur once every 3s.",
+    "r3": "After using an Elemental Skill, Normal or Charged Attacks, on hit, deal an additional 90% ATK DMG in a small area. Effect lasts 15s. DMG can only occur once every 3s.",
+    "r4": "After using an Elemental Skill, Normal or Charged Attacks, on hit, deal an additional 105% ATK DMG in a small area. Effect lasts 15s. DMG can only occur once every 3s.",
+    "r5": "After using an Elemental Skill, Normal or Charged Attacks, on hit, deal an additional 120% ATK DMG in a small area. Effect lasts 15s. DMG can only occur once every 3s.",
+    "class": "Claymore"
+}

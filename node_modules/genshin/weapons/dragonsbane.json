@@ -1,0 +1,14 @@
+{
+    "name": "Dragon's Bane",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/2/24/Weapon_Dragon%27s_Bane.png/revision/latest/scale-to-width-down/100?cb=20200620085449",
+    "rating": 4,
+    "baseatk": "41",
+    "secstat": "Elemental Mastery",
+    "passive": "Bane of Flame and Water",
+    "r1": "Increases DMG against enemies affected by Hydro or Pyro by 20%.",
+    "r2": "Increases DMG against enemies affected by Hydro or Pyro by 24%.",
+    "r3": "Increases DMG against enemies affected by Hydro or Pyro by 28%.",
+    "r4": "Increases DMG against enemies affected by Hydro or Pyro by 32%.",
+    "r5": "Increases DMG against enemies affected by Hydro or Pyro by 36%.",
+    "class": "Polearm"
+}

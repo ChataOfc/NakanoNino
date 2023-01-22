@@ -1,0 +1,14 @@
+{
+    "name": "Eye of Perception",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/6/6c/Weapon_Eye_of_Perception.png/revision/latest/scale-to-width-down/100?cb=20200709192151",
+    "rating": 4,
+    "baseatk": "41",
+    "secstat": "Base ATK",
+    "passive": "Echo",
+    "r1": "Normal and Charged Attacks have a 50% chance to fire a Bolt of Perception, dealing 240% ATK as DMG. This bolt can bounce between enemies a maximum of 4 times. This effect can occur once every 12s.",
+    "r2": "Normal and Charged Attacks have a 50% chance to fire a Bolt of Perception, dealing 270% ATK as DMG. This bolt can bounce between enemies a maximum of 4 times. This effect can occur once every 11s.",
+    "r3": "Normal and Charged Attacks have a 50% chance to fire a Bolt of Perception, dealing 300% ATK as DMG. This bolt can bounce between enemies a maximum of 4 times. This effect can occur once every 10s.",
+    "r4": "Normal and Charged Attacks have a 50% chance to fire a Bolt of Perception, dealing 330% ATK as DMG. This bolt can bounce between enemies a maximum of 4 times. This effect can occur once every 9s.",
+    "r5": "Normal and Charged Attacks have a 50% chance to fire a Bolt of Perception, dealing 360% ATK as DMG. This bolt can bounce between enemies a maximum of 4 times. This effect can occur once every 8s.",
+    "class": "Catalyst"
+}

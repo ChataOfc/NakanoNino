@@ -1,0 +1,14 @@
+{
+    "name": "Wolf's Gravestone",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/4/4f/Weapon_Wolf%27s_Gravestone.png/revision/latest/scale-to-width-down/100?cb=20200620184433",
+    "rating": 5,
+    "baseatk": "46",
+    "secstat": "Base ATK",
+    "passive": "Wolfish Tracker",
+    "r1": "Increases Base ATK by 20%. On hit, attacks against enemies with less than 30% HP increase all party members' Base ATK by 40% for 12s. Can only occur once every 30s.",
+    "r2": "Increases Base ATK by 25%. On hit, attacks against enemies with less than 30% HP increase all party members' Base ATK by 50% for 12s. Can only occur once every 30s.",
+    "r3": "Increases Base ATK by 30%. On hit, attacks against enemies with less than 30% HP increase all party members' Base ATK by 60% for 12s. Can only occur once every 30s.",
+    "r4": "Increases Base ATK by 35%. On hit, attacks against enemies with less than 30% HP increase all party members' Base ATK by 70% for 12s. Can only occur once every 30s.",
+    "r5": "Increases Base ATK by 40%. On hit, attacks against enemies with less than 30% HP increase all party members' Base ATK by 80% for 12s. Can only occur once every 30s.",
+    "class": "Claymore"
+}

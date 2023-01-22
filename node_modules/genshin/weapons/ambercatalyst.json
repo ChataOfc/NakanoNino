@@ -1,0 +1,14 @@
+{
+    "name": "Amber Catalyst",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/9/97/Weapon_Amber_Catalyst.png/revision/latest/scale-to-width-down/100?cb=20200619021800",
+    "rating": 3,
+    "baseatk": "40",
+    "secstat": "Elemental Mastery",
+    "passive": "Elemental Mastery",
+    "r1": "Normal Attack hits increase all Elemental DMG by 6% for 6s. Max 2 stacks.",
+    "r2": "Normal Attack hits increase all Elemental DMG by 7.5% for 6s. Max 2 stacks.",
+    "r3": "Normal Attack hits increase all Elemental DMG by 9% for 6s. Max 2 stacks.",
+    "r4": "Normal Attack hits increase all Elemental DMG by 10.5% for 6s. Max 2 stacks.",
+    "r5": "Normal Attack hits increase all Elemental DMG by 12% for 6s. Max 2 stacks.",
+    "class": "Catalyst"
+}

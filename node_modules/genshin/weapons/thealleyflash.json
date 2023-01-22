@@ -1,0 +1,14 @@
+{
+    "name": "The Alley Flash",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/8/83/Weapon_The_Alley_Flash.png/revision/latest/scale-to-width-down/100?cb=20200719050822",
+    "rating": 4,
+    "baseatk": "44",
+    "secstat": "CRIT Rate",
+    "passive": "Itinerant Hero",
+    "r1": "Continuosly sprinting for at least 1s increases ATK by 28% for 6s. This effect cannot stack.",
+    "r2": "Unknown",
+    "r3": "Unknown",
+    "r4": "Unknown",
+    "r5": "Unknown",
+    "class": "Sword"
+}

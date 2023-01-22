@@ -1,0 +1,14 @@
+{
+    "name": "Skyward Blade",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/0/03/Weapon_Skyward_Blade.png/revision/latest/scale-to-width-down/100?cb=20200621000332",
+    "rating": 5,
+    "baseatk": "46",
+    "secstat": "Energy Recharge",
+    "passive": "Sky-Piercing Fang",
+    "r1": "Crit Rate increased by 4%. Gains Skypiercing Might upon using Elemental Burst: Increases Movement SPD by 10%, increases ATK SPD by 10%, and increases the DMG of Normal and Charged Attack hits by 20% for 12s.",
+    "r2": "Crit Rate increased by 5%. Gains Skypiercing Might upon using Elemental Burst: Increases Movement SPD by 10%, increases ATK SPD by 10%, and increases the DMG of Normal and Charged Attack hits by 25% for 12s.",
+    "r3": "Crit Rate increased by 6%. Gains Skypiercing Might upon using Elemental Burst: Increases Movement SPD by 10%, increases ATK SPD by 10%, and increases the DMG of Normal and Charged Attack hits by 30% for 12s.",
+    "r4": "Crit Rate increased by 7%. Gains Skypiercing Might upon using Elemental Burst: Increases Movement SPD by 10%, increases ATK SPD by 10%, and increases the DMG of Normal and Charged Attack hits by 35% for 12s.",
+    "r5": "Crit Rate increased by 8%. Gains Skypiercing Might upon using Elemental Burst: Increases Movement SPD by 10%, increases ATK SPD by 10%, and increases the DMG of Normal and Charged Attack hits by 40% for 12s.",
+    "class": "Sword"
+}

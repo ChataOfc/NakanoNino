@@ -1,0 +1,14 @@
+{
+    "name": "Skyward Pride",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/0/0b/Weapon_Skyward_Pride.png/revision/latest/scale-to-width-down/100?cb=20200620082616",
+    "rating": 5,
+    "baseatk": "48",
+    "secstat": "Energy Recharge",
+    "passive": "Sky-ripping Dragon Spine",
+    "r1": "Increases all DMG by 8%. After using an Elemental Burst, Normal or Charged Attack, on hit, creates a vacuum blade that does 80% of ATK as DMG to enemies along its path. Lasts for 20s or 8 vacuum blades.",
+    "r2": "Increases all DMG by 10%. After using an Elemental Burst, Normal or Charged Attack, on hit, creates a vacuum blade that does 100% of ATK as DMG to enemies along its path. Lasts for 20s or 8 vacuum blades.",
+    "r3": "Increases all DMG by 12%. After using an Elemental Burst, Normal or Charged Attack, on hit, creates a vacuum blade that does 120% of ATK as DMG to enemies along its path. Lasts for 20s or 8 vacuum blades.",
+    "r4": "Increases all DMG by 14%. After using an Elemental Burst, Normal or Charged Attack, on hit, creates a vacuum blade that does 140% of ATK as DMG to enemies along its path. Lasts for 20s or 8 vacuum blades.",
+    "r5": "Increases all DMG by 16%. After using an Elemental Burst, Normal or Charged Attack, on hit, creates a vacuum blade that does 160% of ATK as DMG to enemies along its path. Lasts for 20s or 8 vacuum blades.",
+    "class": "Claymore"
+}

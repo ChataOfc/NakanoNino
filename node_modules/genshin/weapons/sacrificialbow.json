@@ -1,0 +1,14 @@
+{
+    "name": "Sacrificial Bow",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/e/ec/Weapon_Sacrificial_Bow.png/revision/latest/scale-to-width-down/100?cb=20200619012915",
+    "rating": 4,
+    "baseatk": "43",
+    "secstat": "Energy Recharge",
+    "passive": "Composed",
+    "r1": "After dealing damage to an enemy with an Elemental Skill, the skill has a 40% chance to end its own CD. Can only occur once every 30s.",
+    "r2": "After dealing damage to an enemy with an Elemental Skill, the skill has a 50% chance to end its own CD. Can only occur once every 26s.",
+    "r3": "After dealing damage to an enemy with an Elemental Skill, the skill has a 60% chance to end its own CD. Can only occur once every 22s.",
+    "r4": "After dealing damage to an enemy with an Elemental Skill, the skill has a 70% chance to end its own CD. Can only occur once every 18s.",
+    "r5": "After dealing damage to an enemy with an Elemental Skill, the skill has an 80% chance to end its own CD. Can only occur once every 14s.",
+    "class": "Bow"
+}

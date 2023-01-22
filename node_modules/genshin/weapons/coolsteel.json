@@ -1,0 +1,14 @@
+{
+    "name": "Cool Steel",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/9/9c/Weapon_Cool_Steel.png/revision/latest/scale-to-width-down/100?cb=20200620190036",
+    "rating": 3,
+    "baseatk": "39",
+    "secstat": "ATK",
+    "passive": "Bane of Water and Ice",
+    "r1": "Increases DMG against enemies affected by Hydro or Cryo by 12%.",
+    "r2": "Increases DMG against enemies affected by Hydro or Cryo by 15%.",
+    "r3": "Increases DMG against enemies affected by Hydro or Cryo by 18%.",
+    "r4": "Increases DMG against enemies affected by Hydro or Cryo by 21%.",
+    "r5": "Increases DMG against enemies affected by Hydro or Cryo by 24%.",
+    "class": "Sword"
+}

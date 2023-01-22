@@ -1,0 +1,14 @@
+{
+    "name": "Skyrider Sword",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/3/34/Weapon_Skyrider_Sword.png/revision/latest/scale-to-width-down/100?cb=20200706102839",
+    "rating": 3,
+    "baseatk": "38",
+    "secstat": "Energy Recharge",
+    "passive": "Determination",
+    "r1": "Using an Elemental Burst grants a 12% increase in Base ATK and Movement SPD for 15s.",
+    "r2": "Using an Elemental Burst grants a 15% increase in Base ATK and Movement SPD for 15s.",
+    "r3": "Using an Elemental Burst grants an 18% increase in Base ATK and Movement SPD for 15s.",
+    "r4": "Using an Elemental Burst grants a 21% increase in Base ATK and Movement SPD for 15s.",
+    "r5": "Using an Elemental Burst grants a 24% increase in Base ATK and Movement SPD for 15s.",
+    "class": "Sword"
+}

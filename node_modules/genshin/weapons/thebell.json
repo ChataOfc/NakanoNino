@@ -1,0 +1,14 @@
+{
+    "name": "The Bell",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/6/6e/Weapon_The_Bell.png/revision/latest/scale-to-width-down/100?cb=20200620081855",
+    "rating": 4,
+    "baseatk": "42",
+    "secstat": "Base HP",
+    "passive": "Rebellious Guardian",
+    "r1": "Taking DMG generates a shield which absorbs DMG up to 20% of max HP. This shield lasts for 10s or until broken, and can only be triggered once every 45s. While protected by the shield, the character gains 12% increased DMG.",
+    "r2": "Taking DMG generates a shield which absorbs DMG up to 23% of max HP. This shield lasts for 10s or until broken, and can only be triggered once every 45s. While protected by the shield, the character gains 15% increased DMG.",
+    "r3": "Taking DMG generates a shield which absorbs DMG up to 26% of max HP. This shield lasts for 10s or until broken, and can only be triggered once every 45s. While protected by the shield, the character gains 18% increased DMG.",
+    "r4": "Taking DMG generates a shield which absorbs DMG up to 29% of max HP. This shield lasts for 10s or until broken, and can only be triggered once every 45s. While protected by the shield, the character gains 21% increased DMG.",
+    "r5": "Taking DMG generates a shield which absorbs DMG up to 32% of max HP. This shield lasts for 10s or until broken, and can only be triggered once every 45s. While protected by the shield, the character gains 24% increased DMG.",
+    "class": "Claymore"
+}

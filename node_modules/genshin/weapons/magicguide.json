@@ -1,0 +1,14 @@
+{
+    "name": "Magic Guide",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/3/39/Weapon_Magic_Guide.png/revision/latest/scale-to-width-down/100?cb=20200619022536",
+    "rating": 3,
+    "baseatk": "38",
+    "secstat": "Elemental Mastery",
+    "passive": "Bane of Storm and Tide",
+    "r1": "Increases DMG against enemies affected by Hydro or Electro by 12%.",
+    "r2": "Increases DMG against enemies affected by Hydro or Electro by 15%.",
+    "r3": "Increases DMG against enemies affected by Hydro or Electro by 18%.",
+    "r4": "Increases DMG against enemies affected by Hydro or Electro by 21%.",
+    "r5": "Increases DMG against enemies affected by Hydro or Electro by 24%.",
+    "class": "Catalyst"
+}

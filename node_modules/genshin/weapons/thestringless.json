@@ -1,0 +1,14 @@
+{
+    "name": "The Stringless",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/7/71/Weapon_The_Stringless.png/revision/latest/scale-to-width-down/100?cb=20200619005804",
+    "rating": 4,
+    "baseatk": "42",
+    "secstat": "Elemental Mastery",
+    "passive": "Arrowless Song",
+    "r1": "Increases Elemental Skill and Elemental Burst DMG by 24%.",
+    "r2": "Increases Elemental Skill and Elemental Burst DMG by 30%.",
+    "r3": "Increases Elemental Skill and Elemental Burst DMG by 36%.",
+    "r4": "Increases Elemental Skill and Elemental Burst DMG by 42%.",
+    "r5": "Increases Elemental Skill and Elemental Burst DMG by 48%",
+    "class": "Bow"
+}

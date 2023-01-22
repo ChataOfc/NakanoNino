@@ -1,0 +1,14 @@
+{
+    "name": "Harbinger of Dawn",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/2/23/Weapon_Harbinger_of_Dawn.png/revision/latest/scale-to-width-down/100?cb=20200620190840",
+    "rating": 3,
+    "baseatk": "39",
+    "secstat": "CRIT DMG",
+    "passive": "Vigorous",
+    "r1": "When HP is above 90%, increases CRIT Rate by 14%",
+    "r2": "When HP is above 90%, increases CRIT Rate by 17.5%.",
+    "r3": "When HP is above 90%, increases CRIT Rate by 21%.",
+    "r4": "When HP is above 90%, increases CRIT Rate by 24.5%.",
+    "r5": "When HP is above 90%, increases CRIT Rate by 28%.",
+    "class": "Sword"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Skyward Harp",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/1/19/Weapon_Skyward_Harp.png/revision/latest/scale-to-width-down/100?cb=20200619013227",
+    "rating": 5,
+    "baseatk": "48",
+    "secstat": "CRIT Rate",
+    "passive": "Echoing Ballad",
+    "r1": "Increases CRIT DMG by 20%. Hits have a 60% chance to inflict a small AoE attack, dealing 125% Physical ATK DMG. Can only occur once every 4s.",
+    "r2": "Increases CRIT DMG by 25%. Hits have a 70% chance to inflict a small AoE attack, dealing 125% Physical ATK DMG. Can only occur once every 3.5s.",
+    "r3": "Increases CRIT DMG by 30%. Hits have an 80% chance to inflict a small AoE attack, dealing 125% Physical ATK DMG. Can only occur once every 3s.",
+    "r4": "Increases CRIT DMG by 35%. Hits have a 90% chance to inflict a small AoE attack, dealing 125% Physical ATK DMG. Can only occur once every 2.5s.",
+    "r5": "Increases CRIT DMG by 40%. Hits have a 100% chance to inflict a small AoE attack, dealing 125% Physical ATK DMG. Can only occur once every 2s.",
+    "class": "Bow"
+}

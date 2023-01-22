@@ -1,0 +1,14 @@
+{
+    "name": "Sharpshooter's Oath",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/5/52/Weapon_Sharpshooter%27s_Oath.png/revision/latest/scale-to-width-down/100?cb=20200619010903",
+    "rating": 3,
+    "baseatk": "39",
+    "secstat": "CRIT DMG",
+    "passive": "Precise",
+    "r1": "Increases DMG against weak spots by 24%.",
+    "r2": "Increases DMG against weak spots by 30%.",
+    "r3": "Increases DMG against weak spots by 36%.",
+    "r4": "Increases DMG against weak spots by 42%.",
+    "r5": "Increases DMG against weak spots by 48%.",
+    "class": "Bow"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Alley Hunter",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/0/0a/Weapon_Alley_Hunter.png/revision/latest/scale-to-width-down/100?cb=20200716174401",
+    "rating": 4,
+    "baseatk": "41",
+    "secstat": "CRIT Rate",
+    "passive": "Urban Guerrilla",
+    "r1": "Every 4s a character is on the field, their ATK increases by 4% and their CRIT DMG increases by 4%. This effect has a maximum of 5 stacks and will not be reset if the character leaves the field, but will be cleared when the character takes DMG.",
+    "r2": "Every 4s a character is on the field, their ATK increases by 5% and their CRIT DMG increases by 5%. This effect has a maximum of 5 stacks and will not be reset if the character leaves the field, but will be cleared when the character takes DMG.",
+    "r3": "Every 4s a character is on the field, their ATK increases by 6% and their CRIT DMG increases by 6%. This effect has a maximum of 5 stacks and will not be reset if the character leaves the field, but will be cleared when the character takes DMG.",
+    "r4": "Every 4s a character is on the field, their ATK increases by 7% and their CRIT DMG increases by 7%. This effect has a maximum of 5 stacks and will not be reset if the character leaves the field, but will be cleared when the character takes DMG.",
+    "r5": "Every 4s a character is on the field, their ATK increases by 8% and their CRIT DMG increases by 8%. This effect has a maximum of 5 stacks and will not be reset if the character leaves the field, but will be cleared when the character takes DMG.",
+    "class": "Bow"
+}

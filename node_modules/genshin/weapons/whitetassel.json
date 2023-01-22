@@ -1,0 +1,14 @@
+{
+    "name": "White Tassel",
+    "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/1/1f/Weapon_White_Tassel.png/revision/latest/scale-to-width-down/100?cb=20200706003434",
+    "rating": 3,
+    "baseatk": "39",
+    "secstat": "CRIT Rate",
+    "passive": "Sharp",
+    "r1": "Increases Normal Attack DMG by 24%.",
+    "r2": "Increases Normal Attack DMG by 30%.",
+    "r3": "Increases Normal Attack DMG by 36%.",
+    "r4": "Increases Normal Attack DMG by 42%.",
+    "r5": "Increases Normal Attack DMG by 48%.",
+    "class": "Polearm"
+}
