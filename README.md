@@ -122,8 +122,8 @@ pkg install nodejs
 pkg install ffmpeg
 pkg install imagemagick
 pkg install yarn
-git clone https://github.com/saipulanuar/YukiBot2022
-cd YukiBot2022
+git clone https://github.com/ChataOfc/NakanoNino
+cd NakanoNino
 yarn
 node .
 ```
